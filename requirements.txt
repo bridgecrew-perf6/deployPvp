@@ -1,0 +1,7 @@
+python-docx
+Flask
+azure-storage-blob
+tensorflow==2.8.0
+pandas
+numpy
+

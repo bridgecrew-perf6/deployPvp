@@ -1,0 +1,6 @@
+{
+"modelLocation" : "tfModel.h5",
+"TokenizerLocation":"tokenizer.json",
+"outputLocation" : "C:/Users/darshanRaghunath/",
+"inputFolderLocation" : "C:/Users/darshanRaghunath/Downloads/process"
+}
