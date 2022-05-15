@@ -224,7 +224,7 @@ def hello_world():
     logging.info("uploaded the blob")
 
     '''
-    #shutil.rmtree(containerName)
+    shutil.rmtree(containerName)
     return "<p>" + str(containerName) + "Hello, World!</p>"
 
 
