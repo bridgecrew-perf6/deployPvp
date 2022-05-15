@@ -3,6 +3,7 @@ Flask
 azure-storage-blob
 tensorflow==2.8.0
 pandas
+PVPdarshan==3.3.3
 numpy
 docx2pdf
 PyMuPDF
